@@ -1,3 +1,3 @@
 # CompileAnnotation
 
-![CompileAnnotation](http://doulala.oss-cn-qingdao.aliyuncs.com/image/compile%20annotation.png)
+![CompileAnnotation](http://doulala.oss-cn-qingdao.aliyuncs.com/image/compile_annotation.jpg)
