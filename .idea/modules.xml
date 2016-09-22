@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CompileAnnotationTest2.iml" filepath="$PROJECT_DIR$/CompileAnnotationTest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidlib/androidlib.iml" filepath="$PROJECT_DIR$/androidlib/androidlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/annotationlib/annotationlib.iml" filepath="$PROJECT_DIR$/annotationlib/annotationlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/compileLib/compileLib.iml" filepath="$PROJECT_DIR$/compileLib/compileLib.iml" />
+    </modules>
+  </component>
+</project>
